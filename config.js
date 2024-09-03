@@ -1,21 +1,25 @@
 //可变化的
 const siteConfig = {
-    pageTitle: "无事躺平",
-    logoText: "无事躺平",
-    welcomeMessage: "欲望",
+    pageTitle: "土拨鼠的窝",
+    logoText: "土拨鼠的窝",
+    welcomeMessage: "淡定",
     quote: "Endless desire can never bring satisfaction, but only distress.",
     quoteAuthor: "— Epicurus",
     navLinks: [
-        { text: "博客", url: "https://likey.us.kg/" },
-        { text: "资源站", url: "https://v0v.us.kg/" },
-        { text: "音乐", url: "https://kfcvme50.fyi/music.html" },
-        { text: "视频与文案", url: "https://kfcvme50.fyi/" },
-        { text: "图床", url: "https://imgbed.kfcvme50.fyi/" }
+        { text: "博客", url: "https://cfblog.yohagirl.pp.ua/" },
+        { text: "AI", url: "https://chat.667778889.xyz/" },
+        { text: "导航", url: "https://homarr.01011205.xyz/board" },
+        { text: "邮箱", url: "https://web-mail.0808888.xyz/" },
+        { text: "PDF", url: "https://pdf.01011205.xyz/?lang=zh_CN" }，
+        { text: "翻译", url: "https://libre.667778889.xyz/" }，
+        { text: "IT Tools", url: "https://ittools.01011205.xyz/" }，
+        { text: "图床", url: "https://img.yohaman.pp.ua/" }
+        { text: "磁力搜索", url: "https://bt.yoha.us.kg/" }
     ],
     footerLinks: [
         { text: "YouTube", url: "https://www.youtube.com" },
         { text: "Twitter", url: "https://www.twitter.com" },
-        { text: "Email", url: "mailto:ll01@anche.no" }
+        { text: "Email", url: "samling@20100804.xyz" }
     ]
 };
 
